@@ -1,0 +1,32 @@
+{
+  "kyiv": {
+    "name": "Kyiv",
+    "humidityInPercent": 52,
+    "temperatureInCelsius": 23,
+    "description": "Despite the fact that clouds will cover the sky in Kiev in the morning, the day and evening will be clear and cloudless. At night there will be light rain. In the morning it will get better and the rest of the day will pass without precipitation."
+  },
+  "zhytomyr": {
+    "name": "Zhytomyr",
+    "humidityInPercent": 53,
+    "temperatureInCelsius": 20,
+    "description": "The sky in Zhytomyr will remain clear from morning till evening. No precipitation."
+  },
+  "odesa": {
+    "name": "Odesa",
+    "humidityInPercent": 48,
+    "temperatureInCelsius": 19,
+    "description": "Clear skies will be overcast during the day, but the weather in Odessa will clear again by evening. It will probably rain during the day, but it will be over before evening."
+  },
+  "lviv": {
+    "name": "Lviv",
+    "humidityInPercent": 49,
+    "temperatureInCelsius": 24,
+    "description": "During the day clouds in Lviv will appear in the sky only to dissipate by evening. No precipitation."
+  },
+  "chernivtsi": {
+    "name": "Chernivtsi",
+    "humidityInPercent": 59,
+    "temperatureInCelsius": 21,
+    "description": "This day in Chernivtsi there will be no clouds in the sky only in the pre-dawn hours, and from morning till evening overcast weather will remain. No precipitation."
+  }
+}
